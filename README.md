@@ -1,5 +1,7 @@
 # Capstone-Project-Analyzing-Apple-Stock-Data
 
+Welcome to the repository for our Capstone project at Norquest College. In this project, we aim to analyze Apple Inc.'s stock data to gain insights into its historical performance and trends. This readme provides an overview of our project, the problem statement, our proposed solution, the repository structure, and information about our team members.
+
 ## Problem Statement
 
 The problem we are addressing in this project is to analyze and understand the historical performance of Apple Inc.'s stock. Specifically, we aim to answer questions such as:
